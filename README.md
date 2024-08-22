@@ -1,4 +1,5 @@
-# pray_timesz
+# pray times
+Egypt location only
 
 A new Flutter project.
 
